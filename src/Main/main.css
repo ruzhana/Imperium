@@ -1,0 +1,77 @@
+
+
+.Appp {
+    font-family: roboto;
+    text-align: center;
+    
+  }
+  
+  .container-fill {
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+  }
+
+  .stylee {
+    color:#0F5298;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+    right: 0;
+    left: 0; 
+  }
+  
+  .slon {
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+  }
+
+.cv{
+    float: left;
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 7px;
+    color:#0F5298;
+}
+
+.col {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    grid-gap: 15px;
+    padding: 15px 0;
+    text-align: center;
+  }
+
+.container-fill .cubook{
+    max-height: 60%;
+    max-width: 60%;
+}
+
+.container-fill .sabaq{
+  max-height: 60%;
+  max-width: 60%;
+}
+
+.container-fill .nft{
+  max-height: 60%;
+  max-width: 60%;
+}
+
+
+.container-fill .milk{
+  max-height: 60%;
+  max-width: 60%;
+}
+
+.container-fill .food{
+  max-height: 60%;
+  max-width: 60%;
+}
+
+.container-fill .music{
+  max-height: 60%;
+  max-width: 60%;
+}

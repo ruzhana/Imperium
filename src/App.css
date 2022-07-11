@@ -1,0 +1,66 @@
+.App {
+  font-family: roboto;
+  text-align: center;
+}
+
+.style {
+  color: white;
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+  right: 0;
+  left: 0; 
+}
+
+.slon {
+  height: 500px;
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.button-18 {
+  align-items: center;
+  background-color: #0F5298;
+  border: 0;
+  border-radius: 110px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 26px;
+  font-weight: 610;
+  justify-content: center;
+  line-height: 10px;
+  max-width: 490px;
+  min-height: 50px;
+  min-width: 10px;
+  overflow: hidden;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+}
+
+.button-18:hover,
+.button-18:focus { 
+  background-color: #16437E;
+  color: #ffffff;
+}
+
+.button-18:active {
+  background: #09223b;
+  color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, .08);
+  color: rgba(0, 0, 0, .3);
+}

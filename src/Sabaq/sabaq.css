@@ -1,0 +1,46 @@
+.gr{
+  margin-top: 150px; 
+  margin-left: 100px; 
+  margin-right: 100px;
+}
+
+.grid-container{
+    margin: 0 auto; 
+    padding: 0 auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #16437E;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: #c7b39b;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .Apppe {
+    font-family: roboto;
+    
+  }
+
+  .stylees{
+    color:#0F5298;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+    right: 0;
+    left: 0; 
+  }
+
+  .cve{
+    float: left;
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 7px;
+    color:#0F5298;
+}

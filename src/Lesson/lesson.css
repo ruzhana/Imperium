@@ -1,0 +1,31 @@
+.ar {
+    background-color: #c7b39b;
+}
+
+.hope {
+    overflow: hidden;
+    background-color: white;
+    right: 0;
+    left: 0;
+    padding-top: 4px;
+    padding-left: 7px;
+  }
+  
+  .heads{
+  float: left;
+  
+  background-color: white;
+  padding-top: 5px;
+  padding-left: 0.1px;
+  color:#0F5298;
+  
+  }
+  
+  
+  .styleese {
+    overflow: hidden;
+    background-color: white;
+    right: 0;
+    padding-left: 10px;
+    color:#0F5298;
+  }
