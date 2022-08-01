@@ -9,7 +9,7 @@
   .container-fill {
     width: 100vw;
     height: 100vh;
-    background-color: red;
+    background-color: #c7b39b;
   }
 
   .stylee {
@@ -75,3 +75,4 @@
   max-height: 60%;
   max-width: 60%;
 }
+
